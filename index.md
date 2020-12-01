@@ -7,7 +7,7 @@
       <p><b>邮箱：1525884603@qq.com</b></p>
       <p><b>地址：浙江省宁波市鄞州区盛莫路1519号</b></p>
      </td>
-     <td width=25%>
+     <td width="25%">
        <img src="/picture.jpg" width="100%">     
      </td>
     </tr>
