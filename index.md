@@ -10,8 +10,8 @@
      <td width="25%">
        <img src="/picture.jpg" width="100%">     
      </td>
-    </tr>
-  </table>
+   </tr>
+ </table>
 
 
 ### 我的大一
