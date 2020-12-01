@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+###个人信息
+####姓名：朱耀宇
+####学历：本科
+####学校：浙江万里学院
+####邮箱：www.1525884603@qq.com
+####地址:浙江宁波
 
-You can use the [editor on GitHub](https://github.com/happymakers/happymakers.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###我的大一
+####大一的目标：考取英语四六级证书，计算机二级证书
+####大一值得留念的事：
+####1.
+####2.
+####3.
+####大一取得的成绩（证书）：
+####大一生活的总结：
+####下一阶段目标：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###我的大二
+####大二的目标：
+####大二值得留念的事：
+####1.
+####2.
+####3.
+####大二取得的成绩（证书）：
+####大二生活总结：
+####下一阶段目标：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+###我的大三
+####大三的目标：
+####大三值得留念的事：
+####1.
+####2.
+####3.
+####大三取得的成绩（证书）：
+####大三生活总结：
+####下一阶段目标：
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/happymakers/happymakers.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###我的大四
+####大四的目标：
+####大四值得留念的事：
+####1.
+####2.
+####3.
+####大四取得的成绩（证书）：
+####大四生活总结：
+####毕业后的目标与方向：
