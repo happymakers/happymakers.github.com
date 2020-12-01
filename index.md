@@ -8,7 +8,7 @@
       <p><b>地址：浙江省宁波市鄞州区盛莫路1519号</b></p>
      </td>
      <td width="25%">
-       <img src="/picture.jpg" width="100%"/>   
+       <img src="/zhu.jpg" width="100%"/>   
      </td>
    </tr>
  </table>
